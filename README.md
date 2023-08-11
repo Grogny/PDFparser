@@ -3,3 +3,5 @@
 <p align="center">
   <img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparserstyle.png">
 </p>
+
+<p><center>PDFparser is a basic python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files!</center></p>
