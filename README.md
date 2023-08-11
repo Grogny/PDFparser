@@ -2,4 +2,4 @@
 
 <div style="text-align: center;">
 <img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparserstyle.png">
-<div/>
+</div>
