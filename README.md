@@ -57,5 +57,7 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 **Examples and Screenshots**:
 
+<img src="![PDFparserpic](https://github.com/Grogny/PDFparser/assets/87657107/8a24b157-cc72-44e3-8479-f0efb6971679)">
+
 
 
