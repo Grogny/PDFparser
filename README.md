@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  :mag: PDFparser is a basic python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files! :wrench:
+  :mag: PDFparser is a basic Python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files! :wrench:
 </p>
 
 ---
@@ -57,7 +57,14 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 **Examples and Screenshots**:
 
-<img src="[PDFparserpic](https://github.com/Grogny/PDFparser/assets/87657107/8a24b157-cc72-44e3-8479-f0efb6971679)">
+<img src="https://github.com/Grogny/image-video-gif/blob/main/PDFparserpic.png">
 
+Downloader example:
+<img src="https://github.com/Grogny/image-video-gif/blob/main/downloadsample.png">
 
+Finder example:
+<img src="https://github.com/Grogny/image-video-gif/blob/main/findsample.png">
+
+Extractor example:
+<img src="https://github.com/Grogny/image-video-gif/blob/main/extractsample.png">
 
