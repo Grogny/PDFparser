@@ -11,6 +11,40 @@
 ---
 **USAGE:**
 
+Clone the repositories:
 ```bash
-git clone 
+git clone https://github.com/Grogny/PDFparser
 ```
+
+Open the repositories:
+```bash
+cd PDFparser
+```
+
+Run the script:
+*To download PDF file*
+```bash
+python3 pdfparser.py -d [PDF_URL]
+```
+```bash
+python3 pdfparser.py --download [PDF_URL]
+```
+
+*To find if a website contain PDF files*
+```bash
+python3 pdfparser.py -f [WEBSITE_URL]
+```
+```bash
+python3 pdfparser.py --find [WEBSITE_URL]
+```
+
+*To extract the PDF informations*
+```bash
+python3 pdfparser.py -e [PDF_NAME]
+```
+```bash
+python3 pdfparser.py --extract [PDF_NAME]
+```
+
+---
+
