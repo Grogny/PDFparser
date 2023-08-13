@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  :mag: PDFparser is a basic python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files!
+  :mag: PDFparser is a basic python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files! :wrench:
 </p>
 
 ---
