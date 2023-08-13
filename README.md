@@ -8,6 +8,5 @@
   PDFparser is a basic python script that allow you to <strong>Download</strong>, <strong>Find</strong> and <strong>Parse</strong> PDF files!
 </p>
 
---
-
+---
 **USAGE:**
