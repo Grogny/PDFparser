@@ -22,6 +22,7 @@ cd PDFparser
 ```
 
 Run the script:
+
 *To download PDF file*
 ```bash
 python3 pdfparser.py -d [PDF_URL]
