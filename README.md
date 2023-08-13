@@ -9,7 +9,7 @@
 </p>
 
 ---
-**USAGE:**
+**USAGE**:
 
 Clone the repositories:
 ```bash
@@ -23,29 +23,33 @@ cd PDFparser
 
 Run the script:
 
-*To download PDF file*
+*To download PDF file*:
 ```bash
 python3 pdfparser.py -d [PDF_URL]
 ```
+*or*
 ```bash
 python3 pdfparser.py --download [PDF_URL]
 ```
 
-*To find if a website contain PDF files*
+*To find if a website contain PDF files*:
 ```bash
 python3 pdfparser.py -f [WEBSITE_URL]
 ```
+*or*
 ```bash
 python3 pdfparser.py --find [WEBSITE_URL]
 ```
 
-*To extract the PDF informations*
+*To extract the PDF informations*:
 ```bash
 python3 pdfparser.py -e [PDF_NAME]
 ```
+*or*
 ```bash
 python3 pdfparser.py --extract [PDF_NAME]
 ```
 
 ---
+**Examples and Screenshots**:
 
