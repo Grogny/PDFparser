@@ -15,6 +15,7 @@ Clone the repositories:
 ```bash
 git clone https://github.com/Grogny/PDFparser
 ```
+-
 
 Open the repositories:
 ```bash
