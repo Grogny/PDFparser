@@ -59,14 +59,21 @@ python3 pdfparser.py --extract [PDF_NAME]
 
 <img src="https://github.com/Grogny/image-video-gif/blob/main/PDFparserpic.png">
 
+#
 Downloader example:
 <p align="left">
   <img src="https://github.com/Grogny/image-video-gif/blob/main/downloadsample.png">
 </p>
 
+#
 Finder example:
-<img src="https://github.com/Grogny/image-video-gif/blob/main/findsample.png">
+<p align="left">
+  <img src="https://github.com/Grogny/image-video-gif/blob/main/findsample.png">
+</p>
 
+#
 Extractor example:
-<img src="https://github.com/Grogny/image-video-gif/blob/main/extractsample.png">
+<p align="left">
+  <img src="https://github.com/Grogny/image-video-gif/blob/main/extractsample.png">
+</p>
 
