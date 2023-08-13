@@ -16,11 +16,13 @@ Clone the repositories:
 git clone https://github.com/Grogny/PDFparser
 ```
 
+#
 Open the repositories:
 ```bash
 cd PDFparser
 ```
 
+#
 Run the script:
 
 *To download PDF file*:
@@ -32,6 +34,7 @@ python3 pdfparser.py -d [PDF_URL]
 python3 pdfparser.py --download [PDF_URL]
 ```
 
+#
 *To find if a website contain PDF files*:
 ```bash
 python3 pdfparser.py -f [WEBSITE_URL]
@@ -41,6 +44,7 @@ python3 pdfparser.py -f [WEBSITE_URL]
 python3 pdfparser.py --find [WEBSITE_URL]
 ```
 
+#
 *To extract the PDF informations*:
 ```bash
 python3 pdfparser.py -e [PDF_NAME]
@@ -53,5 +57,5 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 **Examples and Screenshots**:
 
-#
+
 
