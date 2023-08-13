@@ -15,7 +15,6 @@ Clone the repositories:
 ```bash
 git clone https://github.com/Grogny/PDFparser
 ```
--
 
 Open the repositories:
 ```bash
@@ -53,4 +52,6 @@ python3 pdfparser.py --extract [PDF_NAME]
 
 ---
 **Examples and Screenshots**:
+
+#
 
