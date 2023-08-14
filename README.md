@@ -87,7 +87,7 @@ Extractor example:
 </p>
 
 #
-**Note:\**
+**Note:**\
 
 All the unamed PDF files will be rename "Untitled.pdf".\
 :warning: I do not own the PDF and the Website used for the example. :warning:
