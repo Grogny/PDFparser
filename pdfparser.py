@@ -122,7 +122,7 @@ def main():
     {Fore.LIGHTGREEN_EX}USAGE:
     {Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}python3 pdfparser.py -d | --download [PDF LINK] : Download a PDF by using his web link.
     {Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}python3 pdfparser.py -f | --find [WEB PAGES] : Find all the PDF inside a web pages.
-    {Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}python3pdfparser.py -e | --extract [PDF NAME] : Extract all the MetaData from the PDF.
+    {Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}python3 pdfparser.py -e | --extract [PDF NAME] : Extract all the MetaData from the PDF.
     """)
 
 if __name__ == "__main__":
