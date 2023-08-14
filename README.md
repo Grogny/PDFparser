@@ -61,7 +61,7 @@ python3 pdfparser.py --extract [PDF_NAME]
 ```
 
 #
-:exclamation: I only try the script on a Debian terminal, I don't know if it work on Windows. :exclamation:
+:exclamation: I only tried the script on a Debian terminal, I don't know if it work on Windows. :exclamation:
 
 ---
 ## EXAMPLES AND SCREENSHOTS:
