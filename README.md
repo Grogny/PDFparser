@@ -98,6 +98,6 @@ Extractor example:
 - [os](https://docs.python.org/3/library/os.html)
 
 ---
-**DISCLAIMER**
+**DISCLAIMER**:
 
 I am not responsible for what you do and the information you retrieve with <strong>PDFparser</strong>.
