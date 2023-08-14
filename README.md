@@ -66,7 +66,7 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 **EXAMPLES AND SCREENSHOTS**:
 
-<img src="https://github.com/Grogny/image-video-gif/blob/main/PDFparserpic.png">
+<img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparsermenu.png">
 
 #
 Downloader example:
