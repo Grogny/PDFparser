@@ -86,7 +86,7 @@ Extractor example:
 ---
 **MODULES I USED**:
 
-- [urllib](https://docs.python.org/3/library/urllib.htmlurllib)
+- [urllib](https://docs.python.org/3/library/urllib.html)
 - [PyPDF](https://pypdf.readthedocs.io/en/stable/)
 - [BeautifulSoup](https://omz-software.com/pythonista/docs/ios/beautifulsoup.html)
 - [colorama](https://super-devops.readthedocs.io/en/latest/misc.html)
