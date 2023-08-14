@@ -80,8 +80,8 @@ Extractor example:
 #
 :warning: I do not own the PDF and the Website used for the example. :warning:
 
-©[PDF](https://pdfobject.com/pdf/sample.pdf)
-©[Website](https://www.princexml.com/samples/)
+- ©[PDF](https://pdfobject.com/pdf/sample.pdf)
+- ©[Website](https://www.princexml.com/samples/)
 
 ---
 **MODULES I USED**:
