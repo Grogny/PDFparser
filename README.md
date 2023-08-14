@@ -86,13 +86,13 @@ Extractor example:
 ---
 **MODULES I USED**:
 
-- <a href="https://docs.python.org/3/library/urllib.html">urllib</a>
-- <a href="https://pypdf.readthedocs.io/en/stable/">PyPDF</a>
-- <a href="https://omz-software.com/pythonista/docs/ios/beautifulsoup.html">BeautifulSoup</a>
-- <a href="https://super-devops.readthedocs.io/en/latest/misc.html">colorama</a>
-- <a href="https://docs.python.org/3/library/argparse.html">argparse</a>
-- <a href="https://requests.readthedocs.io/en/latest/">requests</a>
-- <a href="https://docs.python.org/3/library/os.html">os</a>
+- [urllib](https://docs.python.org/3/library/urllib.htmlurllib)
+- [PyPDF](https://pypdf.readthedocs.io/en/stable/)
+- [BeautifulSoup](https://omz-software.com/pythonista/docs/ios/beautifulsoup.html)
+- [colorama](https://super-devops.readthedocs.io/en/latest/misc.html)
+- [argparse](https://docs.python.org/3/library/argparse.html)
+- [requests](https://requests.readthedocs.io/en/latest/)
+- [os](https://docs.python.org/3/library/os.html)
 
 ---
 
