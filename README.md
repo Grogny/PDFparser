@@ -87,8 +87,8 @@ Extractor example:
 </p>
 
 #
-Note: 
-All the unamed PDF files will be rename "Untitled.pdf".
+Note:\\ 
+All the unamed PDF files will be rename "Untitled.pdf".\
 :warning: I do not own the PDF and the Website used for the example. :warning:
 
 - ©[PDF](https://pdfobject.com/pdf/sample.pdf)
@@ -106,6 +106,6 @@ All the unamed PDF files will be rename "Untitled.pdf".
 - [os](https://docs.python.org/3/library/os.html)
 
 ---
-##**DISCLAIMER**:
+##DISCLAIMER:
 
 I am not responsible for what you do and the information you retrieve with <strong>PDFparser</strong>.
