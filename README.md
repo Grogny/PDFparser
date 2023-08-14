@@ -9,7 +9,7 @@
 </p>
 
 ---
-**USAGE**:
+##**USAGE**:
 
 Clone the repository:
 ```bash
@@ -64,7 +64,7 @@ python3 pdfparser.py --extract [PDF_NAME]
 :exclamation: I only try the script on a Debian terminal, I don't know if it work on Windows. :exclamation:
 
 ---
-**EXAMPLES AND SCREENSHOTS**:
+##**EXAMPLES AND SCREENSHOTS**:
 
 <img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparsermenu.png">
 
@@ -87,13 +87,15 @@ Extractor example:
 </p>
 
 #
+###Note: 
+All the unamed PDF files will be rename "Untitled.pdf".
 :warning: I do not own the PDF and the Website used for the example. :warning:
 
 - ©[PDF](https://pdfobject.com/pdf/sample.pdf)
 - ©[Website](https://www.princexml.com/samples/)
 
 ---
-**MODULES I USED**:
+##**MODULES I USED**:
 
 - [urllib](https://docs.python.org/3/library/urllib.html)
 - [PyPDF](https://pypdf.readthedocs.io/en/stable/)
@@ -104,6 +106,6 @@ Extractor example:
 - [os](https://docs.python.org/3/library/os.html)
 
 ---
-**DISCLAIMER**:
+##**DISCLAIMER**:
 
 I am not responsible for what you do and the information you retrieve with <strong>PDFparser</strong>.
