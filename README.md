@@ -53,7 +53,7 @@ python3 pdfparser.py -e [PDF_NAME]
 ```bash
 python3 pdfparser.py --extract [PDF_NAME]
 ```
-
+#
 *I only try the script on a Debian terminal, I don't know if it work on Windows*
 
 ---
