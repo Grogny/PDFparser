@@ -11,13 +11,13 @@
 ---
 **USAGE**:
 
-Clone the repositories:
+Clone the repository:
 ```bash
 git clone https://github.com/Grogny/PDFparser
 ```
 
 #
-Open the repositories:
+Open the repository:
 ```bash
 cd PDFparser
 ```
@@ -76,4 +76,24 @@ Extractor example:
 <p align="left">
   <img src="https://github.com/Grogny/image-video-gif/blob/main/extractsample.png">
 </p>
+
+#
+:warning: I do not own the PDF and the Website used for the example. :warning:
+
+©PDF: https://pdfobject.com/pdf/sample.pdf
+©Website: https://www.princexml.com/samples/
+
+---
+**MODULES I USED**:
+
+- <a href="https://docs.python.org/3/library/urllib.html">urllib</a>
+- <a href="https://pypdf.readthedocs.io/en/stable/">PyPDF</a>
+- <a href="https://omz-software.com/pythonista/docs/ios/beautifulsoup.html">BeautifulSoup</a>
+- <a href="https://super-devops.readthedocs.io/en/latest/misc.html">colorama</a>
+- <a href="https://docs.python.org/3/library/argparse.html">argparse</a>
+- <a href="https://requests.readthedocs.io/en/latest/">requests</a>
+- <a href="https://docs.python.org/3/library/os.html">os</a>
+
+---
+
 
