@@ -54,6 +54,8 @@ python3 pdfparser.py -e [PDF_NAME]
 python3 pdfparser.py --extract [PDF_NAME]
 ```
 
+*I only try the script on a Debian terminal, I don't know if it work on Windows*
+
 ---
 **Examples and Screenshots**:
 
@@ -95,5 +97,6 @@ Extractor example:
 - [os](https://docs.python.org/3/library/os.html)
 
 ---
+**DISCLAIMER**
 
-
+I am not responsible for what you do and the information you retrieve with <strong>PDFparser</strong>.
