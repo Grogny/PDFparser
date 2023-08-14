@@ -57,7 +57,7 @@ python3 pdfparser.py --extract [PDF_NAME]
 *I only try the script on a Debian terminal, I don't know if it work on Windows*
 
 ---
-**Examples and Screenshots**:
+**EXAMPLES AND SCREENSHOTS**:
 
 <img src="https://github.com/Grogny/image-video-gif/blob/main/PDFparserpic.png">
 
