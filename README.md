@@ -1,7 +1,7 @@
 <h1 align="center">PDF Parser Tools</h1>
 
 <p align="center">
-  <img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparserstyle.png">
+  <img src="pdfparserstyle.png">
 </p>
 
 <p align="center">
@@ -15,6 +15,7 @@ Clone the repository:
 ```bash
 git clone https://github.com/Grogny/PDFparser
 ```
+
 
 #
 Open the repository:
@@ -66,24 +67,24 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 ## EXAMPLES AND SCREENSHOTS:
 
-<img src="https://github.com/Grogny/image-video-gif/blob/main/pdfparsermenu.png">
+<img src="pdfparsermenu.png">
 
 #
 Downloader example:
 <p align="left">
-  <img src="https://github.com/Grogny/image-video-gif/blob/main/downloadsample.png">
+  <img src="downloadsample.png">
 </p>
 
 #
 Finder example:
 <p align="left">
-  <img src="https://github.com/Grogny/image-video-gif/blob/main/findsample.png">
+  <img src="findsample.png">
 </p>
 
 #
 Extractor example:
 <p align="left">
-  <img src="https://github.com/Grogny/image-video-gif/blob/main/extractsample.png">
+  <img src="trash:///extractsample.png">
 </p>
 
 #
