@@ -1,7 +1,7 @@
 <h1 align="center">PDF Parser Tools</h1>
 
 <p align="center">
-  <img src="pdfparserstyle.png">
+  <img src="https://github.com/Grogny/PDFparser/blob/main/PDFParserimages/pdfparserstyle.png">
 </p>
 
 <p align="center">
@@ -67,24 +67,26 @@ python3 pdfparser.py --extract [PDF_NAME]
 ---
 ## EXAMPLES AND SCREENSHOTS:
 
-<img src="pdfparsermenu.png">
+<img src="https://github.com/Grogny/PDFparser/blob/main/PDFParserimages/pdfparsermenu.png">
 
 #
 Downloader example:
 <p align="left">
-  <img src="downloadsample.png">
+  <img src="https://github.com/Grogny/PDFparser/assets/87657107/f83a7dd3-6cd7-4c4b-a5e3-7d37d56e60f6">
+">
 </p>
 
 #
 Finder example:
 <p align="left">
-  <img src="findsample.png">
+  <img src="https://github.com/Grogny/PDFparser/blob/main/PDFParserimages/findsample.png">
 </p>
 
 #
 Extractor example:
 <p align="left">
-  <img src="trash:///extractsample.png">
+  <img src="https://github.com/Grogny/PDFparser/assets/87657107/19492ff5-f6e5-4298-bb08-23749d4babad">
+">
 </p>
 
 #
