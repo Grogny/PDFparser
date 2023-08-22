@@ -73,7 +73,6 @@ python3 pdfparser.py --extract [PDF_NAME]
 Downloader example:
 <p align="left">
   <img src="https://github.com/Grogny/PDFparser/assets/87657107/f83a7dd3-6cd7-4c4b-a5e3-7d37d56e60f6">
-">
 </p>
 
 #
@@ -86,7 +85,6 @@ Finder example:
 Extractor example:
 <p align="left">
   <img src="https://github.com/Grogny/PDFparser/assets/87657107/19492ff5-f6e5-4298-bb08-23749d4babad">
-">
 </p>
 
 #
