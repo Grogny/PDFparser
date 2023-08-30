@@ -24,7 +24,6 @@ def downloader(pdf_url):
                     if os.path.isfile(f"{meta.title}{i}.pdf"):
                         i+=1
                     else:
-                        i+1
                         os.rename(".pdf", f"{meta.title}{i}.pdf")
                         print(f"\n{Fore.LIGHTGREEN_EX}[+] {Fore.RED}{meta.title}{i}.pdf {Fore.WHITE}successfully downloaded! \n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}You can extract the informations by using -e | --extract")
                         break                      
@@ -38,7 +37,6 @@ def downloader(pdf_url):
                     if os.path.isfile(f"Untitled{i}.pdf"):
                         i+=1
                     else:
-                        i+1
                         os.rename(".pdf", f"Untitled{i}.pdf")
                         print(f"\n{Fore.LIGHTGREEN_EX}[+] {Fore.RED}Untitled{i}.pdf {Fore.WHITE}successfully downloaded! \n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}You can extract the informations by using -e | --extract")
                         break
@@ -89,10 +87,20 @@ def extractor(pdf_name):
     """
     print(stats)
 
-    for i in range(0, len(reader.pages)):
-        page = reader.pages[i]
+    if len(reader.pages) > 1:
+        page = reader.pages[0]
         text = page.extract_text()
-        print(f"""\n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}Text from page {Fore.RED}{i+1}{Fore.WHITE}:\n{text}""")
+        print(f"\n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}Text from page {Fore.RED}1{Fore.WHITE}:\n{text}")
+        answer = input(f"\n{Fore.LIGHTGREEN_EX}[?] {Fore.WHITE}Do you want to see the other pages? (Y/N): ").lower()
+        for i in range(1, len(reader.pages)):
+            if answer != "y":
+                break
+            else:
+                page = reader.pages[i]
+                text = page.extract_text()
+                print(f"\n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}Text from page {Fore.RED}{i+1}{Fore.WHITE}:\n{text}\n")
+    else:
+        print(f"""\n{Fore.LIGHTGREEN_EX}[+] {Fore.WHITE}Text from the page:\n{text}""")
 
 def main():
     parser = argparse.ArgumentParser()
